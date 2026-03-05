@@ -65,8 +65,8 @@ I specialize in identifying and mitigating modern web vulnerabilities.
 personal-portfolio/
 │
 ├── img/                # Screenshots, project icons, and favicons
-├── webSecurity/        # Vulnerability reports and lab documentation
 ├── works/              # Detailed showcase of completed projects
+├── works/webSecurity/        # Vulnerability reports and lab documentation
 │
 ├── index.html          # Main Portfolio Landing Page
 ├── aboutme.html        # Experience, Education, and Background
