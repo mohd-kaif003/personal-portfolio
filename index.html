@@ -1129,34 +1129,50 @@
           <h2 class="h2 article-title">Contact</h2>
         </header>
 
-        <section class="mapbox" data-mapbox>
-          <figure>
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd"
-              width="400" height="300" loading="lazy"></iframe>
-          </figure>
-        </section>
+        <section class="contact-action-list">
 
-        <section class="contact-form">
+          <ul class="contact-btn-list">
 
-          <h3 class="h3 form-title">Contact Form</h3>
+            <li class="contact-btn-item">
+              <a href="mailto:itsmohdkaif003@gmail.com" class="contact-btn">
+                <div class="icon-box">
+                  <ion-icon name="mail-outline"></ion-icon>
+                </div>
+                <div class="btn-content">
+                  <p class="btn-title">Email Me</p>
+                  <p class="btn-text">itsmohdkaif003@gmail.com</p>
+                </div>
+                <ion-icon name="chevron-forward-outline" class="forward-icon"></ion-icon>
+              </a>
+            </li>
 
-          <form action="#" class="form" data-form>
+            <li class="contact-btn-item">
+              <a href="tel:+919058586306" class="contact-btn">
+                <div class="icon-box">
+                  <ion-icon name="call-outline"></ion-icon>
+                </div>
+                <div class="btn-content">
+                  <p class="btn-title">Call Me</p>
+                  <p class="btn-text">+91 9058586306</p>
+                </div>
+                <ion-icon name="chevron-forward-outline" class="forward-icon"></ion-icon>
+              </a>
+            </li>
 
-            <div class="input-wrapper">
-              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+            <li class="contact-btn-item">
+              <a href="https://wa.me/919058586306" target="_blank" class="contact-btn">
+                <div class="icon-box">
+                  <ion-icon name="logo-whatsapp"></ion-icon>
+                </div>
+                <div class="btn-content">
+                  <p class="btn-title">WhatsApp</p>
+                  <p class="btn-text">Chat with me now</p>
+                </div>
+                <ion-icon name="chevron-forward-outline" class="forward-icon"></ion-icon>
+              </a>
+            </li>
 
-              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
-            </div>
-
-            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
-
-            <button class="form-btn" type="submit" disabled data-form-btn>
-              <ion-icon name="paper-plane"></ion-icon>
-              <span>Send Message</span>
-            </button>
-
-          </form>
+          </ul>
 
         </section>
 
