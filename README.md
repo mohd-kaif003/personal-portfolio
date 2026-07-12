@@ -77,7 +77,7 @@ Dynamic QR generator with **Framer Motion** animations and multi-format export.
 ## 📞 Get In Touch
 
 - **Email:** [itsmohdkaif003@gmail.com](mailto:itsmohdkaif003@gmail.com)
-- **Phone:** [+91 9058586306](tel:+919058586306)
+- **Phone:** [+91 9411991119](tel:+919411991119)
 - **LinkedIn:** [Mohd Kaif](https://www.linkedin.com/in/mohd-kaif003/)
 - **Instagram:** [@mohd.kaif003](https://www.instagram.com/mohd.kaif003/)
 
